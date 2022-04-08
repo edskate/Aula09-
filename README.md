@@ -11,3 +11,13 @@
 ## projetado para lidar com tudo , desde projetos pequenos
 
 ## e muito grande com velocidade e eficiência
+
+# Formas do git
+
+## $ git log origin..HEAD
+
+## $ git log HEAD ^origin
+
+- Outra notação especial é "<commit1>... <commit2> "que é útil para mesclagem.
+-
+- O conjunto resultante de comfimações é a diferença simétrica entre os dois operando.
